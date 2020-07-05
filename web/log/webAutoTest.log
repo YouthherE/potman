@@ -1,0 +1,3 @@
+2020-07-05 19:35:40,458 INFO [root] [test_01_login.py(test_login:66)] - ---------------->执行登陆用例
+2020-07-05 19:35:41,078 INFO [root] [test_01_login.py(test_login:71)] - 断言正向结果
+2020-07-05 19:35:47,850 INFO [root] [test_01_login.py(test_login:74)] - None
